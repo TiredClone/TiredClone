@@ -7,4 +7,5 @@
 - **My contact in telegram** - [contact link](//t.me/Neo_Life24)
 - **My email** - neolife66145@gmail.com
 
+![Alt text](https://www.codewars.com/users/TiredClone/badges/large)
 
